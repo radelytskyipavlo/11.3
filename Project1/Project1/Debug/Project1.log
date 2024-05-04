@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ISeeYou\Desktop\edc\AP\11\11.3\Project1\Project1\Source.cpp(204,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ISeeYou\Desktop\edc\AP\11\11.3\Project1\Project1\Source.cpp(233,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ISeeYou\Desktop\edc\AP\11\11.3\Project1\Project1\Source.cpp(259,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ISeeYou\Desktop\edc\AP\11\11.3\Project1\Project1\Source.cpp(287,40): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\ISeeYou\Desktop\edc\AP\11\11.3\Project1\Debug\Project1.exe
